@@ -2,7 +2,7 @@ HGE2Ddemo
 =========
 
 Early freeze of a game I am currently working on.
-Meant to be used as an example on how to use HGE2D.  
+Meant to be used as an example on how to use [HGE2D](https://github.com/I3ck/HGE2D).  
 
 
 I'll try to keep it compatible with the latest version of HGE2D.
